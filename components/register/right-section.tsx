@@ -31,6 +31,7 @@ export const RightSection = () => {
         nome: name,
         numero_identificacao: number,
         data_nascimento: birthDate,
+
         email,
         telefone: phone,
         pais: country,
